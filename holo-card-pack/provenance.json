@@ -1,0 +1,15 @@
+{
+  "source_url": "https://holo.yashb.xyz/",
+  "sha256": "32953f699d287f637ea133494448ad09e0911fdec1bcf0c1e055d0ee8b482081",
+  "bytes": 294983,
+  "parts": {
+    "src/index.head.html": 164,
+    "src/styles.css": 17809,
+    "src/index.mid.html": 1766,
+    "src/art-data.js": 216838,
+    "src/index.bridge.html": 18,
+    "src/app.js": 58362,
+    "src/index.tail.html": 26
+  },
+  "note": "index.html is the built artifact; original/index.html is the captured deployment and is never edited"
+}
