@@ -8,6 +8,7 @@ A curated collection of interactive frontend UI components and WebGL experiments
 | --- | --- | --- |
 | [glass-light-toggle](./glass-light-toggle) | Frosted-glass theme toggle with an orbiting edge LED, bevel refraction, chromatic aberration, and spring-animated pixel morphing from moon to sun | HTML, WebGL2, Canvas 2D |
 | [holo-card-pack](./holo-card-pack) | Tear-open holographic card pack: CSS 3D pouch with a crimped heat seal, five dealt character cards with foil and parallax, particle FX, and a Web Audio synth for the tear and chimes | HTML, CSS 3D, Web Audio |
+| [bloom](./bloom) | Standalone WebGPU 3D blooming flower with procedural TSL petal bending, compute-shader pointer trail, HDR environment lighting, and twinkling particles | Next.js, Three.js WebGPU, TSL, GSAP |
 
 ## Local Preview
 
